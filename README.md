@@ -40,7 +40,7 @@
 </a>
 <img src="https://img.shields.io/badge/dynamic/json?color=764ba2&labelColor=1a1b27&label=Repos&query=public_repos&url=https://api.github.com/users/Ezgaminglogan&style=for-the-badge&logo=github" alt="Repos"/>
 <img src="https://img.shields.io/badge/Contributions-105%2B-38bdae?style=for-the-badge&labelColor=1a1b27&logo=git" alt="Contributions"/>
-<img src="https://img.shields.io/badge/Production_Systems-2-667eea?style=for-the-badge&labelColor=1a1b27&logo=vercel" alt="Deployed"/>
+<img src="https://img.shields.io/badge/Production_Systems-3-667eea?style=for-the-badge&labelColor=1a1b27&logo=vercel" alt="Deployed"/>
 
 </div>
 
@@ -59,13 +59,13 @@
 ```yaml
 name: Logan M. Panucat
 tagline: "A Vibe Coder ✨"
-current_role: Full Stack Developer | OJT Intern
+current_role: Full Stack Developer
 
 education:
   degree: BS Information Technology
   year: 4th Year (Final Year)
   school: Cebu Technological University - Naga Extension
-  status: Completing On-the-Job Training
+  status: Completing Final Year
 
 location: Philippines 🇵🇭
 open_to_work: true
@@ -101,7 +101,7 @@ passion: >
 
 <!-- Achievement Badges -->
 <img src="https://img.shields.io/badge/🎓_Capstone_Projects-3_Completed-667eea?style=for-the-badge&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/🚀_Deployed_Systems-2_Live-764ba2?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/🚀_Deployed_Systems-3_Live-764ba2?style=for-the-badge&labelColor=1a1b27"/>
 <img src="https://img.shields.io/badge/📜_Certifications-5_Earned-38bdae?style=for-the-badge&labelColor=1a1b27"/>
 
 </div>
@@ -131,10 +131,11 @@ passion: >
 
 ### Frontend & Frameworks
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -147,6 +148,8 @@ passion: >
 ### Database & ORM
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_PostgreSQL-00E5CC?style=flat-square&logo=neon&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=.net&logoColor=white)
@@ -160,6 +163,8 @@ passion: >
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
@@ -206,6 +211,94 @@ _Real-world applications deployed and actively used in production environments_
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                              PRODUCTION SYSTEMS                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Wind%20Face.png" width="22"/> MJE Enterprises (AirZen) — Enterprise Service Management Platform
+
+</td>
+</tr>
+</table>
+</div>
+
+<table>
+<tr>
+<td width="60%">
+
+<div align="center">
+
+<a href="https://mjeenterprises.vercel.app/">
+  <img src="https://portfolio-665c.vercel.app/image/mjeenterprises.png" width="100%" alt="MJE Enterprises Screenshot"/>
+</a>
+
+</div>
+
+</td>
+<td width="40%">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-🟢_PRODUCTION-28a745?style=for-the-badge&labelColor=0d1117"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Client-MJE_Enterprises-667eea?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Type-Enterprise-764ba2?style=flat-square&labelColor=1a1b27"/>
+
+</div>
+
+<br/>
+
+**🎯 Key Features**
+
+- 🌬️ AirZen service management platform
+- ⚡ Real-time WebSocket communication
+- 🎞️ Smooth animations with Framer Motion
+- 🗄️ Serverless Neon PostgreSQL database
+- 🚀 Bun runtime for high performance
+- 🔒 Secure JWT-based authentication
+
+<br/>
+
+**⚡ Tech Stack**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,prisma,tailwind,vercel" height="32"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_PostgreSQL-00E5CC?style=flat-square&logo=neon&logoColor=black)
+![Bun](https://img.shields.io/badge/Bun_Runtime-000000?style=flat-square&logo=bun&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://mjeenterprises.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_LIVE_SITE-Visit_Now-28a745?style=for-the-badge&labelColor=0d1117"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 <table>
@@ -358,6 +451,74 @@ _Real-world applications deployed and actively used in production environments_
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                              DESKTOP APPLICATION                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="22"/> SQLite Portable — Desktop Database Manager
+
+</td>
+</tr>
+</table>
+</div>
+
+<table>
+<tr>
+<td width="60%">
+
+<div align="center">
+
+<a href="https://www.mediafire.com/file/2pu0bqxgr979uam/SQLitePortableSetup.zip/file">
+  <img src="https://portfolio-665c.vercel.app/image/sqlite-portables/SQLite-Portable.png" width="100%" alt="SQLite Portable Screenshot"/>
+</a>
+
+</div>
+
+</td>
+<td width="40%">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-🟢_AVAILABLE-28a745?style=for-the-badge&labelColor=0d1117"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Type-Desktop_App-667eea?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Platform-Windows-764ba2?style=flat-square&labelColor=1a1b27"/>
+
+</div>
+
+<br/>
+
+**🎯 Key Features**
+
+- 🗄️ Lightweight SQLite database management
+- 🌐 Multiple language integrations
+- 🏗️ Schema design tools
+- 💾 Portable — no install required
+- 🔍 Intuitive query interface
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.mediafire.com/file/2pu0bqxgr979uam/SQLitePortableSetup.zip/file">
+  <img src="https://img.shields.io/badge/📥_DOWNLOAD-SQLitePortableSetup.zip-28a745?style=for-the-badge&labelColor=0d1117"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                              CAPSTONE PROJECTS                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -381,37 +542,7 @@ _Comprehensive full-stack projects demonstrating end-to-end development capabili
 
 <br/>
 
-<img src="https://img.shields.io/badge/🏭-667eea?style=for-the-badge" height="50"/>
-
-<br/>
-
-### E-Industria
-
-<img src="https://portfolio-665c.vercel.app/image/Capstone%20Project.png" width="100%" alt="E-Industria"/>
-
-<br/>
-
-**Industrial Supply Platform**
-
-<sub>Business management solution for industrial supplies, manpower services, and operations</sub>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=php,mysql,tailwind" height="28"/>
-
-<br/>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-<br/>
-
-</td>
-<td width="33%" align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/📱-764ba2?style=for-the-badge" height="50"/>
+<img src="https://img.shields.io/badge/📦-764ba2?style=for-the-badge" height="50"/>
 
 <br/>
 
@@ -441,28 +572,58 @@ _Comprehensive full-stack projects demonstrating end-to-end development capabili
 
 <br/>
 
-<img src="https://img.shields.io/badge/💻-38bdae?style=for-the-badge" height="50"/>
+<img src="https://img.shields.io/badge/🍽️-667eea?style=for-the-badge" height="50"/>
 
 <br/>
 
-### ByteBuilder
+### Mom's Food Delicacies
 
-<img src="https://portfolio-665c.vercel.app/image/Capstone%20Project%202.png" width="100%" alt="ByteBuilder"/>
-
-<br/>
-
-**PC Recommendation System**
-
-<sub>Intelligent PC builder with rule-based recommendations & component compatibility</sub>
+<img src="https://portfolio-665c.vercel.app/image/Project%203.png" width="100%" alt="Mom's Food Delicacies"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=php,bootstrap,mysql" height="28"/>
+**E-Commerce Platform**
+
+<sub>Online food store with OTP auth, email verification, shopping cart & user accounts</sub>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=php,mysql,tailwind" height="28"/>
 
 <br/>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![PHPMailer](https://img.shields.io/badge/PHPMailer-777BB4?style=flat-square&logo=php&logoColor=white)
+
+<br/>
+
+</td>
+<td width="33%" align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎫-38bdae?style=for-the-badge" height="50"/>
+
+<br/>
+
+### Ticket Support System
+
+<img src="https://portfolio-665c.vercel.app/image/Ticket-Support.png" width="100%" alt="Ticket Support"/>
+
+<br/>
+
+**Helpdesk Application**
+
+<sub>Real-time support ticketing with SignalR, Google Sign-In & reCAPTCHA v3</sub>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs" height="28"/>
+
+<br/>
+
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 <br/>
 
@@ -471,10 +632,6 @@ _Comprehensive full-stack projects demonstrating end-to-end development capabili
 </table>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              OTHER PROJECTS                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <details>
 <summary>
@@ -498,56 +655,6 @@ _Comprehensive full-stack projects demonstrating end-to-end development capabili
 <br/>
 
 <table>
-<tr>
-<td width="50%">
-
-<div align="center">
-
-### 🍽️ Mom's Food Delicacies
-
-<img src="https://portfolio-665c.vercel.app/image/Project%203.png" width="95%" alt="Mom's Food Delicacies"/>
-
-<br/>
-
-**E-Commerce Platform**
-
-<img src="https://skillicons.dev/icons?i=php,mysql,tailwind" height="25"/>
-
-</div>
-
-<br/>
-
-- ✉️ Email verification with PHPMailer
-- 🔐 OTP-based authentication
-- 🛒 Shopping cart & checkout
-- 👤 User account management
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-### 🎫 Ticket Support System
-
-<img src="https://portfolio-665c.vercel.app/image/Ticket-Support.png" width="95%" alt="Ticket Support"/>
-
-<br/>
-
-**Helpdesk Application**
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs" height="25"/>
-
-</div>
-
-<br/>
-
-- 💬 Real-time messaging (SignalR)
-- 🛡️ Google reCAPTCHA v3
-- 🔑 Google Sign-In integration
-- 📋 Ticket management system
-
-</td>
-</tr>
 <tr>
 <td width="50%">
 
@@ -594,13 +701,27 @@ _Comprehensive full-stack projects demonstrating end-to-end development capabili
 - 👨‍🎓 Student records management
 - 📊 Grade tracking & reports
 - 👥 Admin user management
-- 🖨️ Print-ready reports
+- 🖨️ Print-ready reports (VB WFA)
 
 </td>
 </tr>
 </table>
 
 </details>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Spiral%20Calendar.png" alt="Timeline" width="28" /> Experience Timeline
+
+<div align="center">
+
+| Year | Role | Details |
+|:----:|:-----|:--------|
+| 2022 – Present | 🎓 **BS Information Technology** | Cebu Technological University – Naga Extension Campus. Focused on web development, database management, and software engineering. |
+| 2025 | 🚀 **Capstone Project Developer** | Led AI-assisted development of multiple capstone projects including Supplify — a cross-platform supply chain solution. |
+| 2023 – Present | 💻 **Full Stack Developer** | Building real-world applications in PHP, MySQL, .NET, and modern web frameworks through hands-on projects and continuous self-learning. |
+
+</div>
 
 ---
 
@@ -723,11 +844,12 @@ _Industry-recognized certifications demonstrating continuous learning and profes
 
 <div align="center">
 
-| Currently                              | Next Steps                           |
-| :------------------------------------- | :----------------------------------- |
-| 🎯 Completing OJT internship           | 🎓 Graduating & entering workforce   |
-| 📚 Mastering React & Next.js ecosystem | 💼 Seeking full-time developer roles |
-| 🛠️ Building production applications    | 🌟 Contributing to open source       |
+| Currently                                    | Next Steps                           |
+| :------------------------------------------- | :----------------------------------- |
+| 🎯 Completing final year of IT degree        | 🎓 Graduating & entering workforce   |
+| ⚡ Mastering React 19 & TanStack ecosystem   | 💼 Seeking full-time developer roles |
+| 🛠️ Building enterprise-grade applications   | 🌟 Contributing to open source       |
+| 🗄️ Exploring serverless DB with Neon Postgres | 🚀 Scaling production systems        |
 
 </div>
 
