@@ -46,31 +46,29 @@
 
 ### `01 // ARCHITECTURAL PROFILE`
 
-<table>
-<tr>
-<td width="30%" align="center" valign="middle">
+<div align="center">
 
-<img src="Images/profile.jpg" width="100%" style="border-radius: 16px;" alt="Logan M. Panucat — Full-Stack Developer"/>
-
-<br/><br/>
-
-<b>Logan M. Panucat</b><br/>
-<sub>Full-Stack Developer & Systems Architect</sub>
+<a href="https://portfolio-665c.vercel.app/">
+  <img src="Images/grad-pic-cropped.jpg" width="130" height="130" style="border-radius: 50%; border: 3px solid #2563eb; object-fit: cover;" alt="Logan M. Panucat"/>
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-🟢_ONLINE-10b981?style=flat-square&labelColor=090d16" alt="Status"/>
-<img src="https://img.shields.io/badge/ACADEMIC-★_CUM_LAUDE-2563eb?style=flat-square&labelColor=090d16" alt="Honors"/>
+### Logan M. Panucat
+**Full-Stack Developer & Software Architect** • *BSIT Cum Laude Graduate*
+<br/>
+<sub>📍 Carcar City / Naga, Cebu, Philippines (GMT+8) • Cebu Technological University</sub>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/Ezgaminglogan">
-  <img src="https://img.shields.io/github/followers/Ezgaminglogan?label=Followers&style=flat-square&color=2563eb&labelColor=090d16&logo=github" alt="Followers"/>
-</a>
-<img src="https://img.shields.io/badge/dynamic/json?color=38bdf8&labelColor=090d16&label=Repos&query=public_repos&url=https://api.github.com/users/Ezgaminglogan&style=flat-square&logo=github" alt="Repos"/>
+<a href="https://github.com/Ezgaminglogan"><img src="https://img.shields.io/github/followers/Ezgaminglogan?label=Followers&style=flat-square&color=2563eb&labelColor=090d16&logo=github" alt="Followers"/></a>
+<img src="https://img.shields.io/badge/dynamic/json?color=38bdf8&labelColor=090d16&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Ezgaminglogan&style=flat-square&logo=github" alt="Repos"/>
+<img src="https://img.shields.io/badge/STATUS-🟢_ONLINE-10b981?style=flat-square&labelColor=090d16" alt="Online"/>
+<img src="https://img.shields.io/badge/ACADEMIC-★_CUM_LAUDE-2563eb?style=flat-square&labelColor=090d16" alt="Cum Laude"/>
 
-</td>
-<td width="70%" valign="top">
+</div>
+
+<br/>
 
 ```typescript
 // logan.dev.ts — Software & Systems Architecture
@@ -100,14 +98,11 @@ const developer: SoftwareEngineer = {
 
 | Parameter | Telemetry Data |
 | :--- | :--- |
-| **🎓 Academic Honor** | **BSIT Cum Laude** (`CTU Naga Extension Campus`) |
-| **🚀 Production Systems** | **5+ Live Enterprise Platforms** |
-| **📍 Operations Base** | **Carcar / Naga, Cebu, Philippines** |
-| **⚡ Overlap Window** | **Seamless APAC, EMEA & US Team Sync** |
-
-</td>
-</tr>
-</table>
+| **🎓 Academic Honor** | **BSIT Cum Laude** (`Cebu Technological University — Naga Extension Campus`) |
+| **🚀 Production Systems** | **5+ Live Enterprise & Institutional Platforms (Web, Desktop, Cloud)** |
+| **📍 Operations Base** | **Carcar City / Naga, Cebu, Philippines (GMT+8)** |
+| **⚡ Overlap Window** | **Seamless APAC, EMEA & US Team Synchronizations** |
+| **📜 Verified Credentials** | **Next.js Certified • System Deployment Awards** |
 
 ---
 
@@ -430,6 +425,27 @@ A standalone, zero-install portable SQLite database management tool designed for
 
 ### `05 // EDUCATION & CAREER TIMELINE`
 
+<div align="center">
+
+<a href="https://portfolio-665c.vercel.app/">
+  <img src="Images/grad-pic-cropped.jpg" width="110" height="110" style="border-radius: 20px; border: 2px solid #2563eb; object-fit: cover;" alt="Logan M. Panucat — BSIT Cum Laude"/>
+</a>
+
+<br/>
+
+#### Bachelor of Science in Information Technology — Cum Laude
+<sub>Cebu Technological University — Naga Extension Campus • Class of 2026</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/HONORS-★_CUM_LAUDE_GRADUATE-2563eb?style=flat-square&labelColor=090d16" alt="Cum Laude"/>
+<img src="https://img.shields.io/badge/DISCIPLINE-SOFTWARE_ARCHITECTURE-10b981?style=flat-square&labelColor=090d16" alt="Discipline"/>
+<img src="https://img.shields.io/badge/CAMPUS-CTU_NAGA-38bdf8?style=flat-square&labelColor=090d16" alt="Campus"/>
+
+</div>
+
+<br/>
+
 ```text
 2022 ─────────── 2023 ─────────── 2024 ─────────── 2025 ─────────── 2026 ──► [FUTURE]
   │                │                                 │                │
@@ -437,31 +453,11 @@ A standalone, zero-install portable SQLite database management tool designed for
   │  (CTU Naga)    │  (PHP, .NET, React)             │  (Capstone)       Graduate Degree
 ```
 
-<table>
-<tr>
-<td width="26%" align="center" valign="middle">
-
-<img src="Images/grad-pic-cropped.jpg" width="100%" style="border-radius: 14px;" alt="Logan M. Panucat — BSIT Cum Laude Graduate"/>
-
-<br/><br/>
-
-<b>Logan M. Panucat</b><br/>
-<sub>🎓 BSIT Cum Laude Graduate</sub>
-<br/>
-<img src="https://img.shields.io/badge/HONORS-★_CUM_LAUDE-2563eb?style=flat-square&labelColor=090d16" alt="Cum Laude"/>
-
-</td>
-<td width="74%" valign="top">
-
 | Timeline | Milestone & Position | Organization / Institution | Details |
 | :---: | :--- | :--- | :--- |
 | **2022 — 2026** | **🎓 BS in Information Technology**<br/>`Cum Laude Academic Honor` | **Cebu Technological University**<br/>*Naga Extension Campus* | Graduated Cum Laude with deep specialization in web architecture, database systems, and software engineering. Architected multiple campus-wide platforms. |
 | **2025** | **🚀 Lead Systems Architect**<br/>`Capstone Development` | **CTU Naga Extension Campus** | Architected and deployed end-to-end full-stack platforms including Supplify (supply chain) and campus management suites. |
 | **2023 — Present** | **💻 Full-Stack Web Developer**<br/>`Independent & Production Systems` | **Commercial & Client Platforms** | Continuously developing and deploying production web systems, custom database solutions, and client tools using Next.js, C#, PHP, and TypeScript. |
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -471,7 +467,7 @@ A standalone, zero-install portable SQLite database management tool designed for
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 <a href="https://portfolio-665c.vercel.app/#certificates">
   <img src="https://portfolio-665c.vercel.app/certificates/certificates-deployment.jpg" width="100%" alt="System Deployment Award"/>
 </a>
@@ -481,7 +477,7 @@ A standalone, zero-install portable SQLite database management tool designed for
 <br/>
 <img src="https://img.shields.io/badge/DEPLOYMENT-2025-2563eb?style=flat-square" alt="Deployment"/>
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 <a href="https://portfolio-665c.vercel.app/#certificates">
   <img src="https://portfolio-665c.vercel.app/certificates/certificates-deployment1.jpg" width="100%" alt="Dudz Hardware Store"/>
 </a>
@@ -491,7 +487,7 @@ A standalone, zero-install portable SQLite database management tool designed for
 <br/>
 <img src="https://img.shields.io/badge/COMMERCIAL-2025-10b981?style=flat-square" alt="Commercial"/>
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 <a href="https://portfolio-665c.vercel.app/#certificates">
   <img src="https://portfolio-665c.vercel.app/certificates/certificates-nextjs.jpg" width="100%" alt="Next.js Certification"/>
 </a>
@@ -501,7 +497,7 @@ A standalone, zero-install portable SQLite database management tool designed for
 <br/>
 <img src="https://img.shields.io/badge/FRAMEWORK-NEXT.JS-000000?style=flat-square" alt="Next.js"/>
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 <a href="https://portfolio-665c.vercel.app/#certificates">
   <img src="https://portfolio-665c.vercel.app/certificates/certificates-1-nextjs.jpg" width="100%" alt="Next.js App Router"/>
 </a>
